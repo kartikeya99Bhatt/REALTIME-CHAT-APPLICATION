@@ -1,5 +1,3 @@
-Real-Time Chat Application
-
 Description
 
 A real-time chat application built with Socket.io for seamless communication, Tailwind CSS for a modern UI, Express.js as the backend framework, and bcrypt for user authentication security.
